@@ -32,11 +32,24 @@ void loop() {
 
 ## Evidências da Implementação
 
-### Vídeo Demonstrativo
+### Vídeos Demonstrativos
 
-Aqui está um vídeo demonstrando o funcionamento do LED piscando:
+Aqui estão os vídeos demonstrando o funcionamento do LED piscando:
 
-[![Vídeo do LED Piscando](blink_video.mp4)](blink_video.mp4)
+#### Vídeo 1
+<video width="640" height="480" controls>
+  <source src="blink_video.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
 
+#### Vídeo 2
+<video width="640" height="480" controls>
+  <source src="blink_video_2.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
 
-> **Nota**: O vídeo também está disponível como arquivo separado: [`blink_video.mp4`](blink_video.mp4)
+#### Vídeo 3
+<video width="640" height="480" controls>
+  <source src="blink_video_3.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
