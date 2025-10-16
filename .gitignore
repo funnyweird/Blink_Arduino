@@ -1,0 +1,38 @@
+# Arduino IDE
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# External Editor directories and files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+desktop.ini
+
+# Temporary files
+*.log
+*.tmp
+
+# IDE specific files
+.vscode/
+*.code-workspace
+
+# Backup files
+*.backup
+*.bak
